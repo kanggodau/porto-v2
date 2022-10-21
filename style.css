@@ -69,3 +69,57 @@ nav ul li a:hover::after {
   border-radius: 60px;
 }
 /* Akhir Page Home */
+/* Awal Page About */
+.header-text2 {
+  text-align: center;
+  position: relative;
+}
+.header-text2 h1 {
+  font-size: 60px;
+}
+.header-text2 img {
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.header-text2 p {
+  font-size: 20px;
+}
+/* Akhir Page About */
+/* Awal Page Educations */
+.header-text3 {
+  text-align: center;
+  position: relative;
+}
+.header-text3 h1 {
+  font-size: 60px;
+}
+.header-text3 img {
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.header-text3 p {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+/* Akhir Page Educatios */
+/* Awal Page Skills */
+.header-text4 {
+  text-align: center;
+  position: relative;
+}
+.header-text4 h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+table tr th img {
+  width: 50%;
+}
+table tr td {
+  text-align: center;
+  font-size: 20px;
+}
+.th2 {
+  position: center;
+}
